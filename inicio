@@ -1,0 +1,31 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Tour Virtual de FabLab Cuenca</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            text-align: center;
+        }
+        #tour-container {
+            width: 80%;
+            height: 80vh;
+            margin: 40px auto;
+            border: 1px solid #ccc;
+            border-radius: 10px;
+            padding: 20px;
+        }
+    </style>
+</head>
+<body>
+    <h1>Tour Virtual de FabLab Cuenca</h1>
+    <div id="tour-container">
+        <!-- Insertar código del tour virtual aquí -->
+    </div>
+
+    <!-- Insertar código del archivo del tour virtual aquí -->
+
+</body>
+</html>
